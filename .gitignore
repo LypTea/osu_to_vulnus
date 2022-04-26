@@ -1,4 +1,4 @@
 *.zip
 __pycache__
 tempCodeRunnerFile.py
-converted/
+converted/*.zip
